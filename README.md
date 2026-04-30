@@ -42,6 +42,6 @@ Opportunities exist to improve profitability through better inventory and pricin
 🛠️ Tools Used
 SQL (Databricks) – Data querying and transformation
 Microsoft Excel – Data visualization and charts
-Power BI – Interactive dashboards
+Data Studio – Interactive dashboards
 Miro – Project planning and data architecture
-Canva – Presentation design
+PowerBi – Presentation design
